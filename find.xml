@@ -11,8 +11,10 @@
     <mask>*.as</mask>
     <mask>*.css</mask>
     <mask>*.mxml</mask>
-    <mask>*.html</mask>
     <mask>package.json</mask>
     <mask>*.lock</mask>
+    <mask>*.spec.ts</mask>
+    <mask>*.html</mask>
+    <mask>*.json</mask>
   </component>
 </application>
