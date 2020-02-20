@@ -10,4 +10,15 @@
       <option name="JAVA_SCRIPT" value="true" />
     </context>
   </template>
+  <template name="cli" value="console.log('Class: $CLASS$, Function: $FUNCTION$, Line $LINE$ $PARAM_TEXT$($EXPECTED$): '&#10;, $PARAM$);$END$" description="better console.log" toReformat="false" toShortenFQNames="true">
+    <variable name="CLASS" expression="jsClassName()" defaultValue="" alwaysStopAt="true" />
+    <variable name="FUNCTION" expression="jsMethodName()" defaultValue="" alwaysStopAt="true" />
+    <variable name="LINE" expression="lineNumber()" defaultValue="" alwaysStopAt="true" />
+    <variable name="PARAM" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="PARAM_TEXT" expression="" defaultValue="PARAM" alwaysStopAt="true" />
+    <variable name="EXPECTED" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
 </templateSet>
