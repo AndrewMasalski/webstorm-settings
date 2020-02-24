@@ -19,6 +19,9 @@
   </action>
   <action id="EditorLookupDown" />
   <action id="EditorLookupUp" />
+  <action id="FileStructurePopup">
+    <keyboard-shortcut first-keystroke="meta f11" />
+  </action>
   <action id="Git.Branches">
     <keyboard-shortcut first-keystroke="shift meta b" />
   </action>
@@ -36,6 +39,9 @@
   <action id="Refresh" />
   <action id="RenameElement">
     <keyboard-shortcut first-keystroke="meta r" />
+    <keyboard-shortcut first-keystroke="f2" />
+  </action>
+  <action id="RenameFile">
     <keyboard-shortcut first-keystroke="f2" />
   </action>
   <action id="Replace" />
