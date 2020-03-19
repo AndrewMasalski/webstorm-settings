@@ -1,0 +1,14 @@
+<application>
+  <component name="SonarLintGlobalSettings">
+    <option name="sonarQubeServers">
+      <list>
+        <SonarQubeServer>
+          <option name="hostUrl" value="https://sonar.wolterskluwer.io/" />
+          <token>df9edfc9df9fdf98df9edf9cdf92df9edf9cdf9adfcfdfc9dfcbdf9edfcbdf98dfc8df9fdfc9df93df9adf98df92dfc9dfcbdf99df9ddf9cdf9cdfcedf92df9adf9cdf99dfcfdf9edf9bdf99df9edf98</token>
+          <option name="name" value="WK sonarqube" />
+          <organizationKey>default-organization</organizationKey>
+        </SonarQubeServer>
+      </list>
+    </option>
+  </component>
+</application>
