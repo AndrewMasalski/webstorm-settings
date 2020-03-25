@@ -1,5 +1,10 @@
 <application>
   <component name="SonarLintGlobalSettings">
+    <option name="includedRules">
+      <set>
+        <option value="javascript:S1440" />
+      </set>
+    </option>
     <option name="sonarQubeServers">
       <list>
         <SonarQubeServer>
