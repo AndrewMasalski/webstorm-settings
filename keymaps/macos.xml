@@ -58,6 +58,9 @@
   </action>
   <action id="Rerun" />
   <action id="RestoreDefaultLayout" />
+  <action id="RunInspection">
+    <keyboard-shortcut first-keystroke="meta i" />
+  </action>
   <action id="ShelvedChanges.Rename" />
   <action id="ShowContent" />
   <action id="Vcs.Log.Refresh" />
