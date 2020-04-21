@@ -326,11 +326,6 @@
                 <option name="qualifier" value="TRK" />
               </Resource>
               <Resource>
-                <option name="key" value="com.wolterskluwer.taskflow:taskflow:TASKFLOW-4977-tf-utd-reviewers-should-be-able-to-open-utd-links" />
-                <option name="name" value="@wk-app/taskflow TASKFLOW-4977-tf-utd-reviewers-should-be-able-to-open-utd-links" />
-                <option name="qualifier" value="TRK" />
-              </Resource>
-              <Resource>
                 <option name="key" value="com.wolterskluwer.taskflow:taskflow:TASKFLOW-5029-left-panel-quick-navigation" />
                 <option name="name" value="@wk-app/taskflow TASKFLOW-5029-left-panel-quick-navigation" />
                 <option name="qualifier" value="TRK" />
@@ -2523,11 +2518,6 @@
               <Resource>
                 <option name="key" value="com.wolterskluwer.taskflow:taskflow:hotfix/TASKFLOW-5140-tf-screener-rollback-remove-credentials-from-sso-requests-query" />
                 <option name="name" value="@wk-app/taskflow hotfix/TASKFLOW-5140-tf-screener-rollback-remove-credentials-from-sso-requests-query" />
-                <option name="qualifier" value="TRK" />
-              </Resource>
-              <Resource>
-                <option name="key" value="com.wolterskluwer.taskflow:taskflow:hotfix/TASKFLOW-5459-fix-tf-deploy-publish" />
-                <option name="name" value="@wk-app/taskflow hotfix/TASKFLOW-5459-fix-tf-deploy-publish" />
                 <option name="qualifier" value="TRK" />
               </Resource>
               <Resource>
