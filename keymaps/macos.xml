@@ -12,9 +12,13 @@
   <action id="Compare.SameVersion">
     <keyboard-shortcut first-keystroke="shift meta d" />
   </action>
+  <action id="CopyElement" />
   <action id="CopyPaths" />
   <action id="CopyReferencePopup">
     <keyboard-shortcut first-keystroke="shift meta c" />
+  </action>
+  <action id="Debug">
+    <keyboard-shortcut first-keystroke="f5" />
   </action>
   <action id="Diff.ApplyLeftSide" />
   <action id="Diff.ApplyRightSide" />
@@ -41,6 +45,7 @@
     <keyboard-shortcut first-keystroke="shift ctrl b" />
     <mouse-shortcut keystroke="shift meta button1" />
   </action>
+  <action id="Graph.ApplyCurrentLayout" />
   <action id="MethodDown" />
   <action id="MethodHierarchy" />
   <action id="MethodUp" />
@@ -58,11 +63,17 @@
   </action>
   <action id="Rerun" />
   <action id="RestoreDefaultLayout" />
+  <action id="Resume">
+    <keyboard-shortcut first-keystroke="meta alt r" />
+  </action>
   <action id="RunInspection">
     <keyboard-shortcut first-keystroke="meta i" />
   </action>
   <action id="ShelvedChanges.Rename" />
   <action id="ShowContent" />
+  <action id="ToggleLineBreakpoint">
+    <keyboard-shortcut first-keystroke="f9" />
+  </action>
   <action id="Vcs.Log.Refresh" />
   <action id="Vcs.MoveChangedLinesToChangelist" />
   <action id="XDebugger.SetValue" />
