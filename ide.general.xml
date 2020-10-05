@@ -4,4 +4,7 @@
     <option name="showTipsOnStartup" value="false" />
     <option name="useSafeWrite" value="false" />
   </component>
+  <component name="Registry">
+    <entry key="typescript.service.node.arguments" value="--prof" />
+  </component>
 </application>
