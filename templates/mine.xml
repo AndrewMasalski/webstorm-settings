@@ -21,4 +21,12 @@
       <option name="JAVA_SCRIPT" value="true" />
     </context>
   </template>
+  <template name="clv" value="console.log(`$EXPR_COPY$: ${$EXPR$}`);$END$" description="console.log" toReformat="false" toShortenFQNames="true">
+    <variable name="EXPR" expression="jsSuggestVariableName()" defaultValue="&quot;expr&quot;" alwaysStopAt="true" />
+    <variable name="EXPR_COPY" expression="escapeString(EXPR)" defaultValue="" alwaysStopAt="false" />
+    <context>
+      <option name="ECMAScript6" value="true" />
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
 </templateSet>
