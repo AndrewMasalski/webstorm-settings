@@ -59,13 +59,11 @@
     <keyboard-shortcut first-keystroke="f2" />
   </action>
   <action id="Replace">
-    <keyboard-shortcut first-keystroke="shift meta h" />
+    <keyboard-shortcut first-keystroke="meta alt r" />
   </action>
   <action id="Rerun" />
   <action id="RestoreDefaultLayout" />
-  <action id="Resume">
-    <keyboard-shortcut first-keystroke="meta alt r" />
-  </action>
+  <action id="Resume" />
   <action id="RunInspection">
     <keyboard-shortcut first-keystroke="meta i" />
   </action>
