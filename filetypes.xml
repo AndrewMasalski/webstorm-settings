@@ -2,8 +2,10 @@
   <component name="FileTypeManager" version="18">
     <extensionMap>
       <mapping pattern=".gitallowed" type="PLAIN_TEXT" />
+      <mapping ext="vf" type="PLAIN_TEXT" />
       <mapping ext="calc" type="PLAIN_TEXT" />
       <mapping ext="if" type="PLAIN_TEXT" />
+      <mapping ext="dt" type="PLAIN_TEXT" />
       <mapping ext="pem" type="PLAIN_TEXT" />
       <mapping pattern="osa-page" type="TypeScript" />
       <mapping ext="directive" type="TypeScript" />
