@@ -4,6 +4,7 @@
       <mapping pattern=".gitallowed" type="PLAIN_TEXT" />
       <mapping ext="vf" type="PLAIN_TEXT" />
       <mapping ext="calc" type="PLAIN_TEXT" />
+      <mapping ext="manifest" type="PLAIN_TEXT" />
       <mapping ext="if" type="PLAIN_TEXT" />
       <mapping ext="dt" type="PLAIN_TEXT" />
       <mapping ext="pem" type="PLAIN_TEXT" />
