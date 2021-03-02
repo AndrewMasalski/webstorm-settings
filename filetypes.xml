@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="18">
     <extensionMap>
       <mapping pattern="params" type="AUTO_DETECTED" />
+      <mapping pattern="simple-git.ts" type="AUTO_DETECTED" />
       <mapping pattern="resolver" type="AUTO_DETECTED" />
       <mapping pattern=".gitallowed" type="PLAIN_TEXT" />
       <mapping ext="vf" type="PLAIN_TEXT" />
