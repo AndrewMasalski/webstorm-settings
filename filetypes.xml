@@ -2,7 +2,6 @@
   <component name="FileTypeManager" version="18">
     <extensionMap>
       <mapping pattern="params" type="AUTO_DETECTED" />
-      <mapping pattern="simple-git.ts" type="AUTO_DETECTED" />
       <mapping pattern="resolver" type="AUTO_DETECTED" />
       <mapping pattern=".gitallowed" type="PLAIN_TEXT" />
       <mapping ext="vf" type="PLAIN_TEXT" />
@@ -13,6 +12,7 @@
       <mapping ext="dt" type="PLAIN_TEXT" />
       <mapping ext="pem" type="PLAIN_TEXT" />
       <mapping pattern="osa-page" type="TypeScript" />
+      <mapping pattern="simple-git.ts" type="TypeScript" />
       <mapping ext="directive" type="TypeScript" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
