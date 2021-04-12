@@ -17,6 +17,9 @@
   <action id="CopyReferencePopup">
     <keyboard-shortcut first-keystroke="shift meta c" />
   </action>
+  <action id="CopyReferencePopupGroup">
+    <keyboard-shortcut first-keystroke="shift meta c" />
+  </action>
   <action id="Debug">
     <keyboard-shortcut first-keystroke="f5" />
   </action>
