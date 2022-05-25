@@ -3,9 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="localCaseSensitive" value="true" />
-    <option name="localRegularExpressions" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
     <mask>*.properties</mask>
     <mask>*.jsp</mask>
@@ -20,9 +18,9 @@
     <mask>*.json,*.lock</mask>
     <mask>*.spec.ts</mask>
     <mask>*.yml</mask>
-    <mask>*.toml</mask>
-    <mask>*.ts</mask>
     <mask>package.json</mask>
     <mask>*.json</mask>
+    <mask>*.toml</mask>
+    <mask>*.ts</mask>
   </component>
 </application>
