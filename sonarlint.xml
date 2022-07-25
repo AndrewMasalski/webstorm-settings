@@ -1,9 +1,13 @@
 <application>
   <component name="SonarLintGlobalSettings">
-    <option name="includedRules">
-      <set>
-        <option value="javascript:S1440" />
-      </set>
+    <option name="rulesByKey">
+      <map>
+        <entry key="javascript:S1440">
+          <value>
+            <Rule key="javascript:S1440" />
+          </value>
+        </entry>
+      </map>
     </option>
     <option name="sonarQubeServers">
       <list>
@@ -15,5 +19,8 @@
         </SonarQubeServer>
       </list>
     </option>
+    <rules>
+      <Rule key="javascript:S1440" />
+    </rules>
   </component>
 </application>
