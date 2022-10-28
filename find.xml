@@ -14,11 +14,11 @@
     <mask>*.lock</mask>
     <mask>*.html</mask>
     <mask>*.json,*.lock</mask>
-    <mask>*.yml</mask>
     <mask>package.json</mask>
     <mask>*.spec.ts</mask>
     <mask>*.ts</mask>
     <mask>*.json</mask>
     <mask>*.toml</mask>
+    <mask>*.yml</mask>
   </component>
 </application>
